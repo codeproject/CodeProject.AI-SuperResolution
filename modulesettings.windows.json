@@ -1,0 +1,10 @@
+{
+  "Modules": {
+
+    "SuperResolution": {
+      "LaunchSettings" : {
+        "Runtime": "python3.9"
+      }
+    }
+  }
+}
