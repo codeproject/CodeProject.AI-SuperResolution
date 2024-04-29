@@ -13,6 +13,6 @@
     @goto:eof
 )
 
-call "!sdkScriptsDirPath!\utils.bat" WriteLine "No custom setup steps for this module." "!color_info!"
+call "!utilsScript!" WriteLine "No custom setup steps for this module." "!color_info!"
 
 REM set moduleInstallErrors=
