@@ -63,7 +63,7 @@
           { "ModuleVersion": "1.9.1", "ServerVersionRange": [ "2.5.2",     ""   ], "ReleaseDate": "2024-02-08", "ReleaseNotes": "Support for CodeProject.AI Server 2.5.2" },
           { "ModuleVersion": "2.0.0", "ServerVersionRange": [ "2.5.2",     ""   ], "ReleaseDate": "2024-04-03", "ReleaseNotes": "Added tiling for larger images" },
           { "ModuleVersion": "2.1.0", "ServerVersionRange": [ "2.6.5",     ""   ], "ReleaseDate": "2024-04-03", "ReleaseNotes": "Updated for CodeProject.AI Server 2.6.5" },
-          { "ModuleVersion": "2.1.1", "ServerVersionRange": [ "2.6.5",     ""   ], "ReleaseDate": "2024-06-21", "ReleaseNotes": "Corrections for numpy install issue" }
+          { "ModuleVersion": "2.1.1", "ServerVersionRange": [ "2.6.6",     ""   ], "ReleaseDate": "2024-06-21", "ReleaseNotes": "Corrected Numpy 2.0 issue" }
         ]
       },
       
