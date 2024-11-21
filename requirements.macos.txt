@@ -1,7 +1,7 @@
 #! Python3.9
 
 # We may need to rework this. See https://stackoverflow.com/a/66536896
-numpy==1.22.4       # Installing NumPy, a package for scientific computing
+numpy==1.24         # Installing NumPy, a package for scientific computing
 
 ONNX                # Installing ONNX, the Open Neural Network Exchange library
 ONNXRuntime         # Installing ONNX runtime, the scoring engine for ONNX models
