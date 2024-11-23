@@ -3,7 +3,7 @@
 
     "SuperResolution": {
       "Name": "Super Resolution",
-      "Version": "2.2.0",
+      "Version": "2.2.1",
 
       "PublishingInfo" : {
         "Description": "Increases the resolution of an image using AI", 
@@ -65,7 +65,8 @@
           { "ModuleVersion": "2.1.0", "ServerVersionRange": [ "2.6.5", "2.7.0"  ], "ReleaseDate": "2024-04-03", "ReleaseNotes": "Updated for CodeProject.AI Server 2.6.5" },
           { "ModuleVersion": "2.1.1", "ServerVersionRange": [ "2.6.5", "2.7.0"  ], "ReleaseDate": "2024-06-21", "ReleaseNotes": "Corrected Numpy 2.0 issue" },
           { "ModuleVersion": "2.1.2", "ServerVersionRange": [ "2.6.5", "2.7.0"  ], "ReleaseDate": "2024-06-26", "ReleaseNotes": "Corrections to compatibility settings" },
-          { "ModuleVersion": "2.2.0", "ServerVersionRange": [ "2.8.0", ""       ], "ReleaseDate": "2024-08-02", "ReleaseNotes": "Updated for server 2.8" }
+          { "ModuleVersion": "2.2.0", "ServerVersionRange": [ "2.8.0", ""       ], "ReleaseDate": "2024-08-02", "ReleaseNotes": "Updated for server 2.8" },
+          { "ModuleVersion": "2.2.1", "ServerVersionRange": [ "2.8.0", ""       ], "ReleaseDate": "2024-11-23", "ReleaseNotes": "Install fixes for macOS" }
         ]
       },
       
