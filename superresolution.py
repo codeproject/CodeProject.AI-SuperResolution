@@ -83,7 +83,7 @@ def export_pytorch_to_onnx():
     else:
         map_location = torch.device('cpu') 
 
-    torch_model.load_state_dict(torch.load(model_url, map_location=map_location))
+    torch_model.load_state_dict(torch.load(model_url, map_location=map_location, weights_only=True))
 
     # set the model to inference mode. This is required since operators like 
     # dropout or batchnorm behave differently in inference and training mode.
